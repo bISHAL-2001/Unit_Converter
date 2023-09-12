@@ -7,7 +7,7 @@ Includes 6 basic conversions
 5. Time
 6. Speed
 
-![alt text](interface.png)
+![alt text](interface.png | height=50)
 
 
 
