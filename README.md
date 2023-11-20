@@ -1,5 +1,5 @@
 ## Unit Converter using Flutter
-Includes 6 basic conversions 
+Includes 6 basic conversions with seamless conversion along with copy features
 1. Temperature
 2. Pressure
 3. Length
