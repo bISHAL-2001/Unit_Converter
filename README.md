@@ -7,7 +7,7 @@ Includes 6 basic conversions
 5. Time
 6. Speed
 
-![Interface](interface.png)
+<img src="interface.png" height=250/>
 
 
 
